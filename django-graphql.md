@@ -6,8 +6,12 @@ reasons that GraphQL is a good fit for us, as well as some of it's drawbacks. We
 to create a GraphQL API using Django and the Graphene framework. Finally, we look at what the future holds
 for Django and GraphQL.
 
+Slides: [https://github.com/jaydenwindle/django-graphql-talk/blob/master/Goodbye%20REST.pdf](https://github.com/jaydenwindle/django-graphql-talk/blob/master/Goodbye%20REST.pdf)
+
+
 ### Repo
 [https://github.com/jaydenwindle/django-graphql-talk](https://github.com/jaydenwindle/django-graphql-talk)
+
 
 ### Delivered
 SF Django Meetup (Nov 28, 2018)

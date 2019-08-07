@@ -5,3 +5,9 @@ Adding realtime functionality to your app is a great way to drive engagement and
 
 ### Repo
 https://github.com/jaydenwindle/realtime-react-talk
+
+### Slides
+https://slides.com/jaydenwindle/realtime-react
+
+### Delivered
+SoCal React Meetup - Aug 6, 2019

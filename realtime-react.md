@@ -10,4 +10,4 @@ https://github.com/jaydenwindle/realtime-react-talk
 https://slides.com/jaydenwindle/realtime-react
 
 ### Delivered
-SoCal React Meetup - Aug 6, 2019
+SoCal React Meetup (Aug 6, 2019)
